@@ -6,8 +6,8 @@
 
 # TODO LIST : 
 * **Login system**
- 	1.accounting system attached with mta's accounting system
- 	2.Well designed UI and UX  .
+  * accounting system attached with mta's accounting system
+  * Well designed UI and UX  .
 # **LICENSE**
 Ignore all the licenses, But you need to obey the following rules ( Let's get more freedom!! ).
 
