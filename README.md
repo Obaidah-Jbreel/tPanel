@@ -6,5 +6,17 @@
 
 # TODO LIST : 
 * **Login system**
- 	1.
+ 	1.accounting system attached with mta's accounting system
  	2.Well designed UI and UX  .
+# **LICENSE**
+Ignore all the licenses, But you need to obey the following rules ( Let's get more freedom!! ).
+
+This resource is protected by MPL v1(MSCP Public License)
+
+* Any of the private edition of MSCP should be the branch of MSCP main
+
+* You are not permitted to republish any edition of MSCP.
+
+* You are not permitted to sell MSCP. This means you should exclude MSCP from your price when you are going to sell your services.
+
+* Items not mentioned are allowed!
