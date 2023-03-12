@@ -11,7 +11,7 @@
 # **LICENSE**
 Ignore all the licenses, But you need to obey the following rules ( Let's get more freedom!! ).
 
-This resource is protected by MPL v1(MSCP Public License)
+This resource is protected by MPL (MSCP Public License)  v0.1
 
 * Any of the private edition of MSCP should be the branch of MSCP main
 
