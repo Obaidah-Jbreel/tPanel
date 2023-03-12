@@ -6,7 +6,7 @@
 
 # TODO LIST : 
 * **Login system**
-  * accounting system attached with mta's accounting system
+  * Accounting system attached with mta's accounting system either a freeroom or roleplay server
   * Well designed UI and UX  .
 # **LICENSE**
 Ignore all the licenses, But you need to obey the following rules ( Let's get more freedom!! ).
