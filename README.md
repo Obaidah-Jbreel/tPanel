@@ -24,6 +24,6 @@ This Project Protected by the following Rules :
 
 * You are not permitted to republish any edition of tPanel.
 
-* You are not permitted to sell tPanel This means you should exclude MSCP from your price when you are going to sell your services.
+* You are not permitted to sell tPanel This means you should exclude tPanel from your price when you are going to sell your services.
 
 * Items not mentioned are allowed! .
