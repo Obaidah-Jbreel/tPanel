@@ -1,4 +1,4 @@
-# TF's Panel 'tPanel' 
+# What's tPanel ? 
   tPanel is a web interface for [MTA](https://github.com/multitheftauto/mtasa-blue) game servers .
 
 # What's Our Goal ? 
