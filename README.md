@@ -13,8 +13,8 @@
   * Install/Update server dependencies   .
   * Support various gamemods like roleplay derpy freeroom etc .
   * Server Auto Confing Tool .
-  * FTP Control System .
-  * DATABASE Control System either mysql or sqlite3 .
+  * FTP Management System .
+  * DMS either for mysql or sqlite3 .
 # **LICENSE**
 Ignore all the licenses, But you need to obey the following rules ( Let's get more freedom!! ).
 
