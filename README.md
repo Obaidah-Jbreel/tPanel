@@ -5,9 +5,9 @@
   We're attending to make a full featured web interface that feeds the need of mta server owners and adminstrators .
   
 # TODO LIST : 
-* **Login system**
-  * Well designed UI and UX Home Page .
-  * Accounting system attached with mta's accounting system either a freeroom or roleplay servers
+* **Authentication system**
+  * IP Whitelist
+  * Onetime password 
 * **Dashboard**
   * Well designed UI and UX  Home Page .
   * Install/Update server dependencies   .
