@@ -16,9 +16,7 @@
   * FTP Management System .
   * DMS either for mysql or sqlite3 .
 # **LICENSE**
-Ignore all the licenses, But you need to obey the following rules ( Let's get more freedom!! ).
-
-This Project Protected by the following Rules :
+Ignore all the licenses, But you need to obey the following rules .
 
 * Any of the private edition of tPanel should be the branch of tPanel main
 
