@@ -1,5 +1,5 @@
 # What's tPanel ? 
-  tPanel is a web interface for [MTA](https://github.com/multitheftauto/mtasa-blue) game servers .
+  tPanel is a web interface to control and manage [MTA](https://github.com/multitheftauto/mtasa-blue) Servers .
 
 # What's Our Goal ? 
   We're attending to make a full featured web interface that feeds the need of mta server owners and adminstrators .
