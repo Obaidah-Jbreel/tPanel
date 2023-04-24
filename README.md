@@ -6,30 +6,27 @@
   
 # TODO LIST : 
 * **Authentication system**
-  * IP Whitelist
-  * Onetime password 
+  *  IP Whitelist
+  *  Onetime password 
 * **Dashboard**
-  * Well designed UI and UX  Home Page .
-  * Install/Update server dependencies   .
-  * Support various gamemods like roleplay derpy freeroom etc .
-  * Server Auto Confing Tool .
-  * FTP Management System .
-  * DMS either for mysql or sqlite3 .
+  *  Well designed UI and UX  Home Page .
+  *  Install/Update server dependencies   .
+  *  Support various gamemods like roleplay derpy freeroom etc .
+  *  Server Auto Confing Tool .
+  *  FTP Management System .
+  *  DMS either for mysql or sqlite3 .
 * **Monitoring**
-  * Auto Restart FXServer on crash
-  * Server’s CPU/RAM consumption
-  * Live Console (with log file and command history)
-  * Online players chart
-  * Server Activity Log (connections/disconnections, kills, chat, explosions and custom commands)
-
-    Warning system
-    Ban (temporary or permanently) system
-    Whitelist system
-    Take notes about players
-    Keep track of player's play and session time
-    Import bans from EasyAdmin, BanSQL, vMenu, vRP, el_bwh
-    Self-contained player database with backup tool (no MySQL required!)
-    Clean/Optimize the database by removing old players, or bans/warns/whitelists
+  *  Auto Restart FXServer on crash
+  *  Server’s CPU/RAM consumption
+  *  Live Console (with log file and command history)
+  *  Online players chart
+  *  Server Activity Log (connections/disconnections, kills, chat, explosions and custom commands)
+* **Player Manager**
+  *  Warning system
+  *  Ban (temporary or permanently) system
+  *  Whitelist system
+  *  Take notes about players
+  *  Keep track of player's play and session time
 
 
 # **LICENSE**
